@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+Vagrantfile
+/linuxAssessment/
 
 # Log file
 *.log
