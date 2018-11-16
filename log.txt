@@ -1,0 +1,3 @@
+log.txt
+Script1.sh
+src
