@@ -2,6 +2,8 @@
 *.class
 Vagrantfile
 /linuxAssessment/
+.classpath
+.project
 
 # Log file
 *.log
